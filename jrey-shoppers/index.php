@@ -1,5 +1,5 @@
 <?php
     
-    //header('location: ./shop');
-    //exit;
+    header('location: ./shop');
+    exit;
 ?>
