@@ -2,9 +2,9 @@
 
 session_start();
     
-    require("./../includes/no-login-session.php");
+    //require("./../includes/no-login-session.php");
     require("./../includes/shoppers-database.php");
-    require("./../includes/session-messages.php");
+    //require("./../includes/session-messages.php");
 
 
     if (isset($_POST['btn-sign-up'])) {
